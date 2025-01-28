@@ -32,7 +32,9 @@ In this course, I built a visually appealing set of colored markers using HTML f
 Credits
 
 This project is based on the "Learn CSS Colors by Building a Set of Colored Markers" course by freeCodeCamp. Special thanks to the community for their support and resources.
+
 ---------------------------------------------------------------------
+
 [PT-BR]
 
 # Aprenda Cores em CSS Criando um Conjunto de Marcadores Coloridos com FreeCodeCamp 🎨
