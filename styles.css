@@ -13,14 +13,19 @@ h1 {
     
 }
 
+/*A FUNCTION is a piece of code that can take an input and perform a specific action. The CSS 'rgb' function accepts values, or arguments, for red, green, and blue, and produces a color:
+
+Example: <attribute>: rbg (red, green, blue)
+*/
+
 .one {
-    background-color: red;
+    background-color: rgb(255, 0, 0);
 }
 
 .two{
-    background-color: green;
+    background-color: rgb(0, 127, 0);
 }
 
 .three {
-    background-color: blue;
+    background-color: rgb(0, 0, 255);
 }
