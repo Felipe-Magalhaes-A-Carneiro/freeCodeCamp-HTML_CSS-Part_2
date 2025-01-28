@@ -30,6 +30,7 @@ In this course, I built a visually appealing set of colored markers using HTML f
 2.Open the index.html file in your browser to view the project.
 
 Credits
+
 This project is based on the "Learn CSS Colors by Building a Set of Colored Markers" course by freeCodeCamp. Special thanks to the community for their support and resources.
 ---------------------------------------------------------------------
 [PT-BR]
@@ -63,4 +64,5 @@ Neste curso, construí um conjunto visualmente atraente de marcadores coloridos 
 2.Abra o arquivo index.html no navegador para visualizar o projeto.
 
 Créditos
+
 Este projeto foi baseado no curso "Learn CSS Colors by Building a Set of Colored Markers" da freeCodeCamp. Agradecimentos especiais à comunidade pelo apoio e recursos.
