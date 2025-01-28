@@ -1,9 +1,6 @@
 # freeCodeCamp-HTML_CSS-Part_2
 Learn CSS Colors by Building a Set of Colored Markers
 
-# freeCodeCamp-HTML_CSS
-Learning HTML and CSS with freeCodeCamp
-
 # Learn CSS Colors by Building a Set of Colored Markers with FreeCodeCamp 🎨
 
 Welcome to my repository! This project was created as part of the **freeCodeCamp** course, **"Learn CSS Colors by Building a Set of Colored Markers"**. I completed all **94 steps** in the course, gaining practical experience with HTML and CSS.
